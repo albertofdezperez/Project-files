@@ -1,0 +1,11 @@
+Tipo de modelos:
+
+- Activity Diagram: Modelos que recogen las funciones del sistema general y sus subsistemas.
+
+- Component Package: Define los componentes del sistema, visto desde el nivel más alto.
+
+- Block Definition Diagram: Define los componentes dentro del Component Package.
+
+- Internal Block Diagram: Define los componentes dentro del Block Definition Diagram.
+
+- User case diagram: Define los modos de operación del sistema.
